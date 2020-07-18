@@ -2,7 +2,7 @@ name: LonteUI
 main: LonteUI\nakifx\Main
 version: 6.6.6
 api: 3.1.0, 4.0.0
-author: NakiFx Development
+author: NamkiFx/ItzFabb/Theslowaja dev
 commands:
   lonte:
     description: "Membuka daftar pemain bokep"
